@@ -31,7 +31,7 @@ object sorgo {
 }
 
 object mijo {
-	var estaMojado
+	var estaMojado = false
 	
 	method mojarse(){
 		estaMojado= true
