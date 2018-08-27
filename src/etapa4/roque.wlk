@@ -14,4 +14,7 @@ object roque {
 		pupilo.volar(5)
 		pupilo.haceLoQueQuieras()
 	 }
+	method pupiloActual(){
+		return pupilo
+	}
 }
