@@ -65,6 +65,7 @@ object canelones {
 	method sacarQueso(){
 		conQueso = false
 	}
+	// TODO No hagas las cuentas vos, dejá que las haga el programa.
 	method energiaPorGramo(){
 		if (conQueso&&conSalsa) {
 			return 32
